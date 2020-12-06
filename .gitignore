@@ -1,4 +1,7 @@
-sandbox
+sandbox.ipynb
+
+# Jupyter lab
+.virtual_documents
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
