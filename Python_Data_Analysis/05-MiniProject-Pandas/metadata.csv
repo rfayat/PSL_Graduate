@@ -1,0 +1,46 @@
+ID,Organism,Superkingdom,Phylum,class,Order,Family,Tg (K),Type
+190192,Methanopyrus kandleri AV19,Archaea,Euryarchaeota,Methanopyri,Methanopyrales,Methanopyraceae,371,HT
+880724,Methanotorris igneus Kol 5,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,361,HT
+243232,Methanocaldococcus jannaschii DSM 2661,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,358,HT
+573063,Methanocaldococcus infernus ME,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,358,HT
+573064,Methanocaldococcus fervens AG86,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,358,HT
+523846,Methanothermus fervidus DSM 2088,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanothermaceae,356,HT
+579137,Methanocaldococcus vulcanius M7,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,353,HT
+1069083,Methanocaldococcus villosus KIN24-T80,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,353,HT
+647171,Methanotorris formicicus Mc-S-70,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanocaldococcaceae,348,T
+187420,Methanothermobacter thermautotrophicus str. Delta H,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,340.5,T
+523845,Methanothermococcus thermolithotrophicus DSM 2095,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,338,T
+79929,Methanothermobacter marburgensis str. Marburg,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,338,T
+647113,Methanothermococcus okinawensis IH1,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,335.5,T
+523844,Methanosarcina thermophila TM-1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,328,T
+1041930,Methanocella conradii HZ254,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,325.5,T
+882090,Methanolinea tarda NOBI-1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,323,T
+419665,Methanococcus aeolicus Nankai-3,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,319,T
+351160,Methanocella arvoryzae MRE50,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,318,T
+1715806,Methanosarcina flavescens,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,315.5,T
+323259,Methanospirillum hungatei JF-1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,314,T
+2162,Methanobacterium formicicum,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,314,T
+28892,Methanofollis liminatans DSM 4140,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,313,M
+937775,Methanoplanus limicola DSM 2279,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,313,M
+230361,Methanobrevibacter millerae,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,312,M
+456320,Methanococcus voltae A3,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,311,M
+1434123,Methanosarcina vacuolata Z-761,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,311,M
+420247,Methanobrevibacter smithii ATCC 35061,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,311,M
+426368,Methanococcus maripaludis C7,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,310.5,M
+1201294,Methanoculleus bourgensis MS2,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,310,M
+410358,Methanocorpusculum labreanum Z,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,310,M
+386456,Methanobacterium arcticum,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,310,M
+192952,Methanosarcina mazei Go1,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,310,M
+456442,Methanoregula boonei 6A8,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,309,M
+304371,Methanocella paludicola SANAE,Archaea,Euryarchaeota,Methanomicrobia,Methanocellales,Methanocellaceae,309,M
+294671,Methanobrevibacter olleyae,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,308,M
+269797,Methanosarcina barkeri str. Fusaro,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,308,M
+634498,Methanobrevibacter ruminantium M1,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,306,M
+593750,Methanoregula formicica SMSP,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,304.5,M
+877455,Methanobacterium lacus,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,303,M
+521011,Methanosphaerula palustris E1-9c,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanoregulaceae,303,M
+406327,Methanococcus vannielii SB,Archaea,Euryarchaeota,Methanococci,Methanococcales,Methanococcaceae,303,M
+408577,Methanobacterium veterum,Archaea,Euryarchaeota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,301,M
+1036677,Methanosarcina soligelidi,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,301,M
+1434111,Methanosarcina lacustris Z-7289,Archaea,Euryarchaeota,Methanomicrobia,Methanosarcinales,Methanosarcinaceae,298,M
+368407,Methanoculleus marisnigri JR1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,295.5,M
