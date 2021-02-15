@@ -1,0 +1,3 @@
+Hi everyone !
+This is a small example text file.
+Coucou
