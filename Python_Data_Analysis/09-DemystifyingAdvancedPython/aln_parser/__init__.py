@@ -1,6 +1,6 @@
 "Tools for parsing and processing aln files"
 # Import from a relative folder, "." means "same folder as this file"
-from . import file_parsing
+from . import file_parsing  # noqa W0611
 
 
 # Dummy examples
